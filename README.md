@@ -22,4 +22,11 @@ Vale para cualquier launcher (Prism, CurseForge, Modrinth, oficial):
 
 Al actualizar, repite los pasos 2 y 3 con el zip nuevo.
 
-No admite shaders (no incluye Oculus).
+## Solo se entra con el modpack oficial
+
+Al conectarte, el servidor comprueba tus mods. Si tu instancia no coincide con el
+modpack oficial (mods de más, jars cambiados o una versión antigua), no te deja
+entrar y te dice el motivo. Además del modpack solo se admiten estos mods de
+cliente: Oculus, Distant Horizons, tlskincape, AppleSkin, JEED y ocuwheel.
+
+No incluye shaders. Si quieres usarlos, puedes añadir Oculus por tu cuenta.
